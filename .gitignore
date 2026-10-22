@@ -1,0 +1,5 @@
+# PDF paper (source material, not a deliverable)
+assets/diamond_paper.pdf
+# rendered page dumps from PDF (intermediate; keep only the figure crops)
+figs/page_*.png
+figs/embed_*.png
